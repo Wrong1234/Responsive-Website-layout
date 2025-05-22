@@ -6,3 +6,7 @@
 **HTML, CSS
 ** Javascirpt
 **Laravel
+
+
+ -Replace `your-username/your-repo.git` with your actual GitHub repo URL.
+- You can remove or modify any steps based on your project setup.
